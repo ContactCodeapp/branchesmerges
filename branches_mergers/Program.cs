@@ -7,6 +7,8 @@ namespace branches_mergers
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("made a change to feature branch!")
         }
     }
 }
